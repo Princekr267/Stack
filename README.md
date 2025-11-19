@@ -86,26 +86,6 @@ output.exe         # Windows
 
 ---
 
-## 📂 Project Structure
-
-```
-stack-cpp/
-│
-├── Implementation Files/
-│   ├── linked_list_stack.cpp      # Linked list implementation
-│   ├── stl_stack.cpp               # STL implementation
-│   └── template_stack.cpp          # Template implementation
-│
-├── Problem Solutions/
-│   ├── valid_parentheses.cpp
-│   ├── reverse_string.cpp
-│   ├── push_bottom.cpp
-│   ├── stock_span.cpp
-│   └── ... (6 more problem files)
-│
-└── README.md
-```
-
 ---
 
 ## 💡 What I Learned
